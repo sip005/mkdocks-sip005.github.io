@@ -1,4 +1,5 @@
 - 1 git init 
+- 2 git status
 - 2 git add .
 - 3 git commit -m "message/note"
 - 4 git push 
